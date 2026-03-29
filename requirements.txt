@@ -1,4 +1,4 @@
 openpyxl==3.0.9
 pyparsing==3.0.7
 redis==4.1.4
-tqdm==4.63.0
+tqdm==4.66.3
